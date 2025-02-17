@@ -1,0 +1,19 @@
+.color{
+    color: blue;
+    font-style:italic ;
+    font-weight: bold;
+
+    
+}
+.colors{
+    color: green;
+    font-weight:bold;
+
+}
+.colours{
+    color: orangered;
+    font-weight: bold;
+}
+h3{
+    color:black;
+}
